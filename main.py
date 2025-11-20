@@ -6,6 +6,7 @@ import time
 #Function for the introduction of the story
 def introduction():
     print("stranger: Wake up!")
+    time.sleep(2)
     print("stranger: Are you dead?")
     # wait 2 seconds before continuing
     time.sleep(2)
